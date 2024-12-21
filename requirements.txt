@@ -1,0 +1,12 @@
+astroid==3.3.6
+colorama==0.4.6
+dill==0.3.9
+isort==5.13.2
+mccabe==0.7.0
+pip==22.0.4
+platformdirs==4.3.6
+pylint==3.3.2
+setuptools==58.1.0
+tomli==2.2.1
+tomlkit==0.13.2
+typing_extensions==4.12.2
